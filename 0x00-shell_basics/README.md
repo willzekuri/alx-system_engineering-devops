@@ -5,3 +5,4 @@ The script for task 3 displays current directory contents in long format
 The script for task 4 displays current directory contents, including hidden files
 The script for task 5 displays current directory contents in long format, with user and group IDs displayed numerically and hidden files
 The script for task 6 creates a directory in the /tmp/ directory
+The script for task 7 moves a file from /tmp to /tmp/my_first_directory
