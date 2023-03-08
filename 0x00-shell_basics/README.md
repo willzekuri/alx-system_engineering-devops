@@ -14,3 +14,4 @@ The script for task 12 shows the file type
 The script for task 13 creates a symbolic link to /bin/ls, named __ls__
 The script for task 14 copies all HTML files from the current working directory to the parent of the working directory
 The script for task 15 moves all files beginning with an uppercase letter to directory /tmp/u
+The script for task 16 deletes all files that starts with ~ in the current working directory
