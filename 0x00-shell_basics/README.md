@@ -7,3 +7,4 @@ The script for task 5 displays current directory contents in long format, with u
 The script for task 6 creates a directory in the /tmp/ directory
 The script for task 7 moves a file from /tmp to /tmp/my_first_directory
 The script for task 8 deletes the file betty 
+The script for task 9 deletes a directory in /tmp/ directory
