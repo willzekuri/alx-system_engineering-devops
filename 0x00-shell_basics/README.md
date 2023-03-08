@@ -17,3 +17,4 @@ The script for task 15 moves all files beginning with an uppercase letter to dir
 The script for task 16 deletes all files that starts with ~ in the current working directory
 The script for task 17 creates a tree of directories
 The command for task 18 lists all the files and directories of the current directory, seperated by commas
+The command for task 19 Create a magic file (school.mgc) that can be used with the command file to detect School data files
