@@ -14,3 +14,4 @@ The script for task 12 creates a directory called my_dir with permissions 751 in
 The script for task 14  changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 The script for task 15 changes the owner and the group owner of _hello to vincent and staff respectively
 The script for task 16 changes the owner of the file hello to betty only if it is owned by the user guillaume
+The script for task 17 will play StarWars IV episode in the terminal
