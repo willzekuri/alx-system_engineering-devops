@@ -12,3 +12,4 @@ The script for task 10 sets the mode of the file hello the same as olleh’s mod
 The script for task 11 adds the execute permission to all subdirectories of the current directory for the owner, group owner and all other users
 The script for task 12 creates a directory called my_dir with permissions 751 in the working directory
 The script for task 14  changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+The script for task 15 changes the owner and the group owner of _hello to vincent and staff respectively
