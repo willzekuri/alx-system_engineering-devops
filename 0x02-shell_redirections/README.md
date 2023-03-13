@@ -10,3 +10,4 @@ The script for task 8 saves the content of ls -la in ls_cwd_content
 The script for task 9 duplicates the last line of iacta
 
 
+The script for task 10 deletes all the regular files with a .js extension that are in current directory and subfolders
