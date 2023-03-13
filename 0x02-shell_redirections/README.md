@@ -6,3 +6,4 @@ The script for task 4 displays the last 10 lines of /etc/passwd
 The script for task 5 displays the first 10 lines of /etc/passwd
 The script for task 6 displays the third line of the file iacta.
 The script for task 7 creates a file *\"Best School"\\*$?*****:) and writes in it
+The script for task 8 saves the content of ls -la in ls_cwd_content
