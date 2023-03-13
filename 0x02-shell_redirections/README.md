@@ -1,2 +1,3 @@
 The script for task 0 prints Hello world
 The script for task 1 displays a confused smiley
+The script for task 2 displays the content of the /etc/passwd file
